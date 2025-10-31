@@ -1,6 +1,6 @@
 # 🤖💻 Codanico Agente de IA que cuida de codigos
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Otavio72/Assetto-Corsa-Stints-ACS-/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]((https://github.com/Otavio72/Codanico/blob/main/LICENSE))
 
 Agente de IA desenvolvido em Python capaz de corrigir códigos automaticamente e gerar documentação técnica.
 
@@ -21,16 +21,22 @@ O sistema integra automação de tarefas, geração de relatórios e feedback em
 ## 💻 Layout da aplicação
 
 ### Página inicial
-![Página Inicial](assets/acs1.png)
+![Página Inicial](assets/1.png)
 
 ### Página de Status
-![Página de Status](assets/acs2.png)
+![Página de Status](assets/2.png)
 
 ### Menu de Stints
-![Menu de Stints](assets/acs3.png)
+![Menu de Stints](assets/3.png)
 
 ### Pagina de analise
-![Pagina de analise](assets/acs4.png)
+![Pagina de analise](assets/4.png)
+
+### Pagina de analise
+![Pagina de analise](assets/5.png)
+
+### Pagina de analise
+![Pagina de analise](assets/6.png)
 
 ---
 
