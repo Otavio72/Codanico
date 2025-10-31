@@ -1,4 +1,4 @@
-# 🏎️⚙️ Assetto Corsa Stints (ACS) Em desenvolvimento
+# 🤖💻 Codanico Agente de IA que cuida de codigos
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Otavio72/Assetto-Corsa-Stints-ACS-/blob/main/LICENSE)
 
@@ -52,13 +52,9 @@ O **ACS** é uma aplicação local que extrai dados de telemetria do jogo Assett
 
 ### 🔙 Back end
 - Python
-
-### 💾 Banco de dados
-- MySQL
-
+  
 ### 🎨 Interface
 - CustomTkinter
-
 ---
 
 ## ⚙️ Como executar o projeto
