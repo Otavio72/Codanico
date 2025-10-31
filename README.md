@@ -1,6 +1,6 @@
 # 🤖💻 Codanico Agente de IA que cuida de codigos
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)]((https://github.com/Otavio72/Codanico/blob/main/LICENSE))
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Otavio72/Codanico/blob/main/LICENSE)
 
 Agente de IA desenvolvido em Python capaz de corrigir códigos automaticamente e gerar documentação técnica.
 
@@ -57,30 +57,24 @@ O sistema integra automação de tarefas, geração de relatórios e feedback em
 
 ```bash
 # clonar repositório
-git clone https://github.com/Otavio72/Assetto-Corsa-Stints-ACS-.git
 
-Ative o ambiente virtual:
-  python -m venv .venv
+git clone https://github.com/Otavio72/Codanico.git
+cd Codanico
 
-No Windows (PowerShell):
-  ```powershell
-  .venv\Scripts\Activate.ps1
+# criar e ativar o ambiente virtual
+python -m venv .venv
 
-No Linux/macOS:
-  source .venv/bin/activate
+# Windows
+.venv\Scripts\activate
 
-# acesse o diretorio
-cd Assetto-Corsa-Stints-ACS-
+# Linux/macOS
+source .venv/bin/activate
 
-Instale as dependências:
-  pip install -r requirements.txt
+# instalar dependências
+pip install -r requirements.txt
 
-# acesse o dirtetorio da versao demo
-cd DEMO
-
-# Rode
-  python ACS.vDEMO.py
-
+# rodar o Codanico
+python Codanico.py
 ```
 
 # Autor
