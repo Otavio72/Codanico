@@ -23,27 +23,24 @@ O sistema integra automação de tarefas, geração de relatórios e feedback em
 ### Página inicial
 ![Página Inicial](assets/1.png)
 
-### Página de Status
-![Página de Status](assets/2.png)
+### Página do Editor
+![Página do Editor](assets/2.png)
 
-### Menu de Stints
-![Menu de Stints](assets/3.png)
+### Página de Configurações
+![Página de Configurações](assets/3.png)
 
-### Pagina de analise
-![Pagina de analise](assets/4.png)
-
-### Pagina de analise
-![Pagina de analise](assets/5.png)
-
-### Pagina de analise
-![Pagina de analise](assets/6.png)
+### Documentação Gerada
+![Documentação Gerada](assets/6.png)
 
 ---
 
 ## 🗂️ Codigos feitos pelo codanico
 
-## Datalogger
-![Datalogger](assets/gif3.gif)
+### Codigo Simples Com Erro
+![Codigo Simples Com Erro](assets/4.png)
+
+### Codigo Simples Corrigido Pelo Codanico
+![Codigo Simples Corrigido Pelo Codanico](assets/5.png)
 
 ---
 
